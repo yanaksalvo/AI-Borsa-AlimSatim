@@ -1,7 +1,7 @@
 {
   "binance_api_key": "",
   "binance_api_secret": "",
-  "openrouter_api_key": "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",
+  "openrouter_api_key": "sk-or-v1-",
   "ai_model": "anthropic/claude-3.5-sonnet",
   "risk_pct": 2,
   "max_pozisyon": 3,
@@ -23,4 +23,5 @@
   "pozisyon_yontemi": "sabit_oran",
   "alsat_kar_hedefi_pct": 2.0,
   "alsat_min_kazanma_yuzde": 75.0
+
 }
